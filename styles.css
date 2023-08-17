@@ -13,3 +13,6 @@ body{
 #t13{
 	text-align:right;
 }
+tr,td{
+	border:1px solid black;
+}
